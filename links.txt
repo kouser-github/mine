@@ -2,3 +2,6 @@
 
 #wireless adapter - 
 https://www.quora.com/Does-this-wireless-adapter-support-packet-injection-and-monitoring-mode-Is-it-good-for-Kali-Linux
+
+#DNS List -
+https://adguard-dns.io/kb/general/dns-providers/#malware-and-adult-content-blocking
