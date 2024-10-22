@@ -5,3 +5,8 @@ https://www.quora.com/Does-this-wireless-adapter-support-packet-injection-and-mo
 
 #DNS List -
 https://adguard-dns.io/kb/general/dns-providers/#malware-and-adult-content-blocking
+
+
+## ChatGPT learnings - 
+#Regex
+https://chatgpt.com/share/67176053-7fd4-8002-b62b-c377852bd05a
